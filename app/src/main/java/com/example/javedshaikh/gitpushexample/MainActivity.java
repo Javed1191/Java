@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private void testPush()
     {
         int i;
+        int b=0;
         i = 1+2;
 
         System.out.print(i);
